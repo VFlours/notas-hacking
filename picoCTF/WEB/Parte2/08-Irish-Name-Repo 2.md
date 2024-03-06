@@ -7,7 +7,7 @@ The password is being filtered.
 ## Solution
 
 ```
-ulise@SSJ2 MINGW64 /d/Downloads/notas-hacking (main)
+VFlours@win MINGW64 /d/Downloads/notas-hacking (main)
 $ curl -s https://jupiter.challenges.picoctf.org/problem/53751/login.php -d "username=admin';&password=password&debug=1"
 <pre>username: admin';
 password: password

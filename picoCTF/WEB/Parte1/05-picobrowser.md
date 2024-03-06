@@ -10,7 +10,7 @@ This website can be rendered only by **picobrowser**, go and catch the flag! `
 ```
 
 
-ulise@SSJ MINGW64 ~
+VFlours@win MINGW64 ~
 $ curl https://jupiter.challenges.picoctf.org/problem/50522/flag -H "User-Agent: picobrowser"
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
@@ -82,7 +82,7 @@ $ curl https://jupiter.challenges.picoctf.org/problem/50522/flag -H "User-Agent:
 
 </html>
 
-ulise@SSJ MINGW64 ~
+VFlours@win MINGW64 ~
 
 ```
 

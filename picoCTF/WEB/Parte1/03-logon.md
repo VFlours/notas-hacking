@@ -9,7 +9,7 @@ The factory is hiding things from all of its users. Can you login as Joe and fin
 
 ```
 
-ulise@SSJ MINGW64 ~/Downloads
+VFlours@win MINGW64 ~/Downloads
 $ curl https://jupiter.challenges.picoctf.org/problem/15796/flag -H "Cookie:username=loko;password=12;admin=True"
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
