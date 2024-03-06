@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/primerParcial/Parte2/08-whats a net cat.md",
+                "file": "retos_bandit/Bandit Level 32 → Level 33.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/primerParcial/Parte2/08-whats a net cat.md",
+                "file": "retos_bandit/Bandit Level 32 → Level 33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/primerParcial/Parte2/08-whats a net cat.md",
+                "file": "retos_bandit/Bandit Level 32 → Level 33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/primerParcial/Parte2/08-whats a net cat.md"
+                "file": "retos_bandit/Bandit Level 32 → Level 33.md"
               }
             }
           }
@@ -146,8 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60bb94cf2997e57b",
+  "active": "dd6bc4f327bdac93",
   "lastOpenFiles": [
+    "retos_bandit/Bandit Level 33 → Level 34.md",
+    "retos_bandit/Bandit Level 23 → Level 24.md",
+    "retos_bandit/Bandit Level 30 → Level 31.md",
+    "retos_bandit/Bandit Level 10 → Level 11.md",
+    "retos_bandit/Bandit Level 1 → Level 2.md",
+    "retos_bandit/Bandit Level 0 → Level 1.md",
+    "picoCTF/primerParcial/Parte1/01-Obedient cat.md",
+    "picoCTF/primerParcial/Parte2/08-whats a net cat.md",
     "picoCTF/plantilla pico.md",
     "README.md",
     "retos-bandit/Level 19 → Level 20.md",
@@ -163,17 +171,9 @@
     "picoCTF/primerParcial/Parte3/03-PW Crack 1.md",
     "picoCTF/primerParcial/Parte3/02-Glitch Cat.md",
     "picoCTF/primerParcial/Parte3/01-fixme2.py.md",
-    "picoCTF/primerParcial/Parte2/08-whats a net cat.md",
     "picoCTF/primerParcial/Parte2/07-strings it.md",
     "picoCTF/primerParcial/Parte2/06-fixme1.py.md",
     "picoCTF/primerParcial/Parte2/05-First Grep.md",
-    "picoCTF/primerParcial/Parte2/04-convertme.py.md",
-    "picoCTF/primerParcial/Parte2/03-Codebook.md",
-    "picoCTF/primerParcial/Parte2/02-Bases.md",
-    "picoCTF/primerParcial/Parte2/01-2Warm.md",
-    "picoCTF/primerParcial/Parte1/08-Warmed Up.md",
-    "picoCTF/primerParcial/Parte1/07-Lets Warm Up.md",
-    "picoCTF/primerParcial/Parte1/06-Magikarp Ground Mission.md",
     "picoCTF/primerParcial/Parte3",
     "picoCTF/primerParcial/Parte2",
     "picoCTF/primerParcial/Parte1",
