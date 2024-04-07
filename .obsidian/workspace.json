@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos_bandit/Bandit Level 32 → Level 33.md",
+                "file": "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/04 Search source.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos_bandit/Bandit Level 32 → Level 33.md",
+                "file": "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/04 Search source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos_bandit/Bandit Level 32 → Level 33.md",
+                "file": "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/04 Search source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos_bandit/Bandit Level 32 → Level 33.md"
+                "file": "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/04 Search source.md"
               }
             }
           }
@@ -148,6 +148,15 @@
   },
   "active": "dd6bc4f327bdac93",
   "lastOpenFiles": [
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/03 Local Authority.md",
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/04 Search source.md",
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/05 Forbidden Paths.md",
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/06 Power Cookie.md",
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/07 Roboto Sans.md",
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/08 Secrets.md",
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/09 SQL Direct.md",
+    "picoCTF/Segundo Examen Parcial/Parte 2 (Retos Forensic)/01 information.md",
+    "retos_bandit/Bandit Level 32 → Level 33.md",
     "picoCTF/WEB/Parte2/10-JaWT Scratchpad.md",
     "picoCTF/WEB/Parte2/09-Irish-Name-Repo 3.md",
     "picoCTF/WEB/Parte2/08-Irish-Name-Repo 2.md",
@@ -168,15 +177,6 @@
     "retos_bandit/Bandit Level 10 → Level 11.md",
     "retos_bandit/Bandit Level 1 → Level 2.md",
     "retos_bandit/Bandit Level 0 → Level 1.md",
-    "picoCTF/primerParcial/Parte1/01-Obedient cat.md",
-    "picoCTF/primerParcial/Parte2/08-whats a net cat.md",
-    "picoCTF/plantilla pico.md",
-    "README.md",
-    "retos-bandit/Level 19 → Level 20.md",
-    "retos-bandit/Level 21 → Level 22.md",
-    "retos-bandit/Level 1 → Level 2.md",
-    "picoCTF/primerParcial/Parte3/06-runme.py.md",
-    "picoCTF/WEB/01-Insp3ct0r.md",
     "picoCTF/primerParcial/Parte3",
     "picoCTF/primerParcial/Parte2",
     "picoCTF/primerParcial/Parte1",
